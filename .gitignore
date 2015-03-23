@@ -12,6 +12,7 @@
 
 # bundler state
 /.bundle
+/.direnv
 /vendor/bundle/
 /vendor/ruby/
 
@@ -29,6 +30,7 @@ db/*.sqlite3
 .sass-cache
 /config/config.yml
 /config/database.yml
+/config/secret.yml
 /coverage.data
 /coverage/
 /db/*.javadb/
